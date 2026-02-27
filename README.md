@@ -1,4 +1,4 @@
-# PPMI Visit-Level Data Integration + Visualization (PATNO_EVENT)
+# PPMI Visit-Level Data Integration + Visualization
 
 This repository contains two Jupyter notebooks that:
 1) integrate multiple **objective assessment** tables into a single **visit-level** dataset, and  

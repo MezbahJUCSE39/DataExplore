@@ -58,9 +58,8 @@ This repository contains two Jupyter notebooks that:
 .
 ├─ data/                      # raw inputs (NOT committed if sensitive)
 ├─ reports/                   # exported merged tables
-├─ notebooks/
-│  ├─ Clinical Data preparation_normalized-Objective_all_Visit.ipynb
-│  └─ Data Visualization for classification.ipynb
+├─ Clinical Data preparation_normalized-Objective_all_Visit.ipynb
+├─ Data Visualization for classification.ipynb
 ├─ requirement.yml            # conda environment file
 └─ README.md
 ```
